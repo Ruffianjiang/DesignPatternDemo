@@ -16,6 +16,8 @@
 
     <modules>
         <module>demo1</module>
+        <module>demo3</module>
+        <module>principle</module>
     </modules>
 
     <dependencyManagement>
