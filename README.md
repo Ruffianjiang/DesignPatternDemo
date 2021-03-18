@@ -1,23 +1,25 @@
 # DesignPatternDemo
+
 -----------
+
 [~~English Documentation~~](README-EN.md)
+
 ------------
 
 
 
+# TODO List0（principle）  
 
-# TODO List0（principle）
-
-**1、开闭原则**
-**2、里氏代换原则**
-**3、依赖倒转原则**
-**4、接口隔离原则**
-**5、迪米特法则，又称最少知道原则**
-**6、单一职责原则**
-**7、合成复用原则(ex)**
+**1、开闭原则**  
+**2、里氏代换原则**  
+**3、依赖倒转原则**  
+**4、接口隔离原则**   
+**5、迪米特法则，又称最少知道原则**  
+**6、单一职责原则**  
+**7、合成复用原则(ex)**  
 
 
-# TODO List1（demo） 
+# TODO List1（demo）  
 
  **[1、工厂模式](demo1)**  
  **[2、抽象工厂模式](demo1)**  
@@ -46,9 +48,9 @@
  **25、访问者模式**  
 
 
-# TODO List2（衍生探索）
+# TODO List2（衍生探索）  
 
-1、spring BeanFactory
+1、spring BeanFactory  
 
 
 

@@ -1,10 +1,10 @@
-package top.lossingdawn.factory.pattern.principle;
+package top.lossingdawn.design.pattern.demo3;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PrincipleApplicationTests {
+class Demo3ApplicationTests {
 
     @Test
     void contextLoads() {

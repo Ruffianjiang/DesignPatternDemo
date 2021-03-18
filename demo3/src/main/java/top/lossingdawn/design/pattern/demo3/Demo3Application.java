@@ -1,13 +1,13 @@
-package top.lossingdawn.factory.pattern.principle;
+package top.lossingdawn.design.pattern.demo3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PrincipleApplication {
+public class Demo3Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(PrincipleApplication.class, args);
+        SpringApplication.run(Demo3Application.class, args);
     }
 
 }
