@@ -6,6 +6,7 @@
         <groupId>top.lossingdawn</groupId>
         <artifactId>DesignPatternDemo</artifactId>
         <version>1.0.0</version>
+        <relativePath>../pom.xml</relativePath> <!-- lookup parent from repository -->
     </parent>
     <groupId>top.lossingdawn.design.pattern</groupId>
     <artifactId>demo1</artifactId>
